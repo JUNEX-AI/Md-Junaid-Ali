@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d1b"/><stop offset="1" stop-color="#15243a"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff512f"/><stop offset=".25" stop-color="#f09819"/><stop offset=".5" stop-color="#36d1dc"/><stop offset=".75" stop-color="#5b86e5"/><stop offset="1" stop-color="#ff00ff"/></linearGradient><clipPath id="p"><circle cx="1030" cy="155" r="102"/></clipPath></defs>
+<rect width="1200" height="330" rx="24" fill="url(#bg)"/><circle cx="1100" cy="40" r="200" fill="#36d1dc" opacity=".08"/><circle cx="920" cy="300" r="160" fill="#ff00ff" opacity=".06"/>
+<text x="60" y="100" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="4" fill="#36d1dc">JUNEX AI • DEVELOPER PROFILE</text>
+<text x="58" y="166" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" fill="#f0f6ff">JUNAID ALI</text>
+<text x="62" y="208" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#36d1dc">B.A. STUDENT  /  AI BUILDER</text>
+<text x="62" y="246" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#c5d2e6">Building JUNEX AI Assistant • Nagaon, Assam, India</text>
+<circle cx="1030" cy="155" r="109" fill="none" stroke="url(#a)" stroke-width="4"/>
+<image href="junaid-ali.jpg" x="928" y="53" width="204" height="204" preserveAspectRatio="xMidYMid slice" clip-path="url(#p)"/>
+<path d="M0 302 C250 280 390 326 600 302 S960 280 1200 302" fill="none" stroke="url(#a)" stroke-width="4"/>
+</svg>
