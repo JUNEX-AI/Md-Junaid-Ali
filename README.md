@@ -1,83 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:1d4ed8,100:06b6d4&text=Junaid%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Automation%20%7C%20Software%20Development&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Junaid Ali banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Junaid%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BA%20Student%20%7C%20AI%20Builder%20%7C%20JUNEX%20AI&descAlignY=58&descSize=18" alt="Junaid Ali — AI Builder banner" />
 
-# 👋 Hey, I'm Junaid Ali
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=36D1DC&center=true&vCenter=true&width=650&lines=B.A.+Student;AI+Builder;Building+JUNEX+AI+Assistant;Learning+by+Building" alt="Typing introduction" />
 
-### AI & Automation Developer · Python · Android · Smart Tools
-
-[![GitHub](https://img.shields.io/badge/GitHub-LOADER300-181717?style=for-the-badge&logo=github)](https://github.com/LOADER300)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Automation-2563eb?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-Building%20Every%20Day-0891b2?style=for-the-badge)
-
-*Building useful tools, exploring AI, and turning ideas into working projects.*
+<p>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-36D1DC?style=for-the-badge&labelColor=0A101F" alt="Focus: AI and Automation" />
+  <img src="https://img.shields.io/badge/Location-Nagaon%2C%20Assam%2C%20India-5B86E5?style=for-the-badge&labelColor=0A101F" alt="Location: Nagaon, Assam, India" />
+  <img src="https://img.shields.io/badge/Status-Building%20JUNEX%20AI-F09819?style=for-the-badge&labelColor=0A101F" alt="Status: Building JUNEX AI" />
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-- 🤖 Exploring AI assistants, voice interfaces, and workflow automation.
-- 🐍 Learning and building with Python and desktop application development.
-- 📱 Interested in Android apps, useful utilities, and clean user experiences.
-- 🔌 Experimenting with APIs, OAuth, and cloud automation.
-- 🚀 Focused on learning by building, testing, and improving real projects.
+Hi, I'm **Junaid Ali** — a B.A. student from **Nagaon, Assam, India**, interested in software development, artificial intelligence, and automation.
 
-## 🛠️ Technologies & Tools
+I'm building **JUNEX AI Assistant** and learning by creating practical projects with Python, JavaScript, React, and Node.js.
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-</p>
+- 🎓 **Education:** B.A. student — Samaguri, Assam
+- 🤖 **Current focus:** Building the JUNEX AI Assistant
+- 🌱 **Learning:** AI tools, frontend development, backend systems, and deployment
+- 🧰 **Toolchain:** VS Code, Git, Linux, and Docker
+- 📍 **Origin:** Nagaon, Assam, India
+
+## 🗺️ Visual Map — System Info
+
+| Layer | Details |
+|---|---|
+| **Name** | Junaid Ali |
+| **Role** | B.A. Student / AI Builder |
+| **Origin** | Nagaon, Assam, India |
+| **Education** | B.A. student — Samaguri, Assam |
+| **Status** | Building JUNEX AI Assistant |
+| **Toolchain** | VS Code · Git · Linux · Docker |
+| **Core Languages** | Python · JavaScript |
+| **Frontend** | React · HTML · CSS |
+| **Backend** | Node.js · Python |
+| **Database** | MongoDB |
+| **Infrastructure** | Docker · Cloudflare |
 
 ## 🚀 Featured Project
 
-### 🎬 [Funny-Cartoon-Auto](https://github.com/LOADER300/Funny-Cartoon-Auto)
+### [JUNEX AI — Md-Junaid-Ali](https://github.com/JUNEX-AI/Md-Junaid-Ali)
 
-A project exploring automation for preparing and publishing cartoon-style YouTube Shorts with cloud workflows.
+My project space for building and developing **JUNEX AI Assistant**.
 
-**Interests:** workflow automation · API integration · scheduled jobs · content metadata
+- **Goal:** Create useful AI-powered assistant tools and workflows.
+- **Core interests:** AI, automation, software development, and user-focused tools.
+- **Status:** In development.
 
-> Project capabilities depend on the current code, credentials, and configuration.
+> Project features and technology details may evolve as development continues.
 
-## 📌 What I'm Working Toward
-
-- Building reliable AI assistant experiences.
-- Making project setup and documentation easier.
-- Improving secure API and OAuth workflows.
-- Creating practical apps that solve everyday problems.
-
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LOADER300&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Junaid's GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOADER300&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=LOADER300&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
+<img src="https://skillicons.dev/icons?i=python,js,react,html,css,nodejs,mongodb,docker,cloudflare,linux,vscode,git,github&theme=dark" alt="Python, JavaScript, React, HTML, CSS, Node.js, MongoDB, Docker, Cloudflare, Linux, VS Code, Git, and GitHub" />
 
 </div>
 
-## 🤝 Let's Connect
+### Languages & Development
 
-- 💻 GitHub: [@LOADER300](https://github.com/LOADER300)
-- 📂 Projects: [Browse my repositories](https://github.com/LOADER300?tab=repositories)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Database, Infrastructure & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JunaidAli-dev&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidAli-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=JunaidAli-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-junaidali--dev-181717?style=for-the-badge&logo=github)](https://github.com/junaidali-dev)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmcreation300@gmail.com)
+
+**Email:** [jmcreation300@gmail.com](mailto:jmcreation300@gmail.com)  
+**LinkedIn:** Coming soon
+
+</div>
+
 ---
 
-### ⚡ Learn. Build. Improve.
+<div align="center">
 
-*Thanks for visiting my profile!*
+*Learning, building, and improving — one project at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:020617&height=100&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" alt="Footer banner" />
 
 </div>
